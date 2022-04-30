@@ -1,24 +1,9 @@
 # animations
 
-## Project setup
-```
-npm install
-```
+### animation style
+###### https://animate.style/
+###### https://cdnjs.com/libraries/animate.css ->CDN
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
